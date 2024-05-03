@@ -24,7 +24,7 @@ export default function Hero() {
                     <span className="block ">Web3</span>
                   </h1>
                   <p className="mt-3 text-base text-gray-300 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">
-                  "Empower Your Creativity by Mint, Share, and Monetize with Blockchain."
+                  &quot;Empower Your Creativity by Mint, Share, and Monetize with Blockchain.&quot;
                   </p>
                   <div className="mt-10 sm:mt-12">
                     <form action="#" className="sm:max-w-xl sm:mx-auto lg:mx-0">
@@ -39,7 +39,7 @@ export default function Hero() {
                       </div>
                       <p className="mt-3 text-sm text-gray-300 sm:mt-4">
                         
-"Revolutionizing Social Media by Own Your Content, Shape Your Community."
+                      &quot;Revolutionizing Social Media by Own Your Content, Shape Your Community.&quot;
                       </p>
                     </form>
                   </div>
