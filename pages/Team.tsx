@@ -29,7 +29,7 @@ const people = [
           <div className="space-y-12 lg:grid lg:grid-cols-3 lg:gap-8 lg:space-y-0">
             <div className="space-y-5 sm:space-y-4">
               <h2 className="text-3xl font-extrabold tracking-tight sm:text-4xl">About Us</h2>
-              <p className="text-xl text-gray-500" style={{ textAlign : "justify",width:"99%",marginLeft:"-41px" }}>
+              <p className="text-xl text-gray-500" style={{ textAlign : "justify",width:"99%",marginLeft:"-51px" }}>
               Welcome to NFT Media, where we revolutionize social media through Web3 technology.Our platform allows users to fully control their digital identity and content with unparalleled security and transparency. Here, you can mint NFTs, manage digital assets, and engage in a community-driven space with smart contracts ensuring every transaction is secure. Our innovative features make social media safer, enjoyable, and rewarding. Join us to experience a new era of social media where privacy, creativity, and user empowerment are prioritized.
               </p>
             </div>
