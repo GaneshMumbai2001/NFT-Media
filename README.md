@@ -1,4 +1,4 @@
-# NFT Media - Gryffindors
+# NFT Media
 
 # Social Media in Web3
 
@@ -63,10 +63,7 @@ https://user-images.githubusercontent.com/88650559/209794739-fba58311-a1f3-424e-
 
 ![image](https://user-images.githubusercontent.com/88650559/206165934-37ed534f-b2c4-4def-a3e5-230c0e6909a4.png)
 
-# Vedio Link
-
-Youtube vedio link: https://www.youtube.com/playlist?list=PLrsZIxkQAAZoGEOG8C0_7VVZWdmqamG8W
 
 # Presentation Link
 
-Canva Presentation Link: https://www.canva.com/design/DAFTwgAp0xM/oVZ_qPSIIehDYqC3d_vP8Q/view?utm_content=DAFTwgAp0xM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#2
+Canva Presentation Link: [https://www.canva.com/design/DAFTwgAp0xM/oVZ_qPSIIehDYqC3d_vP8Q/view?utm_content=DAFTwgAp0xM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#2](https://www.canva.com/design/DAGEa_gPki8/X81eHeS0xEgI2JPlcNuoRw/edit?utm_content=DAGEa_gPki8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
