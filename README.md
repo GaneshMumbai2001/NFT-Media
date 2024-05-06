@@ -12,7 +12,7 @@ Being built on blockchain, web3 social networks are decentralized and are thus a
 -> We also give users access to a blog. <br/>
 -> We also offer our consumers memberships so they may access the creators' unique stuff. <br/>
 
-# Proposing Features:
+# Proposing Features
 
 -> We limit the hours of usage of the user to avoid social media addiction. <br/>
 -> We give an option to trimout the 18+ contents and horror contents. <br/>
@@ -55,14 +55,17 @@ backend: <br/>
 
 https://user-images.githubusercontent.com/88650559/209794739-fba58311-a1f3-424e-8ffb-0f8924a8b0e1.mp4
 
-# Media Page before Subscription(Minting of NFT):
+# Media Page before Subscription(Minting of NFT)
 
 ![image](https://user-images.githubusercontent.com/88650559/206165840-c80f0b96-6c87-41d6-b121-ee96fb6265bb.png)
 
-# Media Page after Subscription(Minting of NFT):
+# Media Page after Subscription(Minting of NFT)
 
 ![image](https://user-images.githubusercontent.com/88650559/206165934-37ed534f-b2c4-4def-a3e5-230c0e6909a4.png)
 
+# Live Link 
+
+https://nft-media.vercel.app/
 
 # Presentation Link
 
